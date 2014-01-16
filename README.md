@@ -1,6 +1,6 @@
 Accelerometer-html
 ==================
 
-==Demo==
+# Demo
 
 http://dev.degt.cl/accelerometer-example/
